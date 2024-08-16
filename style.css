@@ -171,8 +171,8 @@ section {
 
 .section__pic-container {
   display: flex;
-  height: 400px;
-  width: 400px;
+  height: 200px;
+  width: 200px;
   margin: auto 0;
 }
 
@@ -186,16 +186,18 @@ section {
 }
 
 .section__text__p1 {
-  text-align: center;
+    color: rgb(255, 0, 144);
+    font-size: 1.3rem;
+    text-align: center;
 }
 
 .section__text__p2 {
-  font-size: 1.75rem;
+  font-size: 1.5rem;
   margin-bottom: 1rem;
 }
 
 .title {
-  font-size: 3rem;
+  font-size: 2.2rem;
   text-align: center;
 }
 
